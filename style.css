@@ -1,0 +1,38 @@
+@font-face{
+    font-family: "Raleway";
+    src: url('raleway/Raleway-Light.ttf');
+}
+
+@font-face{
+    font-family: "Geonms";
+    src: url('geonms-font.ttf');
+}
+
+body {
+	font-family: "Raleway";
+}
+
+.vertNMS {
+	background-color: #7CCDB3;
+}
+
+/* FOOTER */
+h1 {
+	font-family: "Geonms";
+	margin-top: 8px;
+	margin-left: 5px;
+	display: block;
+}
+.logo{
+	height: 60px;
+
+}
+
+@media screen and (max-width: 510px){ 
+    h1 {
+        font-size: 7vw;
+    }
+    .logo{
+	display: none;
+
+}
