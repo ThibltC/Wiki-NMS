@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background:url(http://img.over-blog-kiwi.com/0/97/04/18/20140317/ob_8385bb_toureiffel.jpg) center no-repeat; 
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.App-logosearch {
+  height: 40px;
+}
+
+.searchB {
+  margin-top: 100px;
+  height: 1000px;
+}
+
+searchBar {
+  background-color: rgba(255, 255, 255, 0.3);
+}
